@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Tutorial Intro",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "title": "Descripción Proyecto",
+  "description": "El proyecto People 360 nace con el objetivo de unificar sistemas del área de Personas de Cencosud, donde estaban distribuidos en múltiples bases de datos, formatos y su manejo a nivel general era complejo, debido a esto nace la idea de crear un Datawarehouse que permita procesar y gestionar todos los datos provenientes de los distintos países donde está presente cencosud",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Modulo Desacople",
+    "permalink": "/docs/category/modulo-desacople"
   }
 }

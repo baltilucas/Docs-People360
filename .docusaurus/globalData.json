@@ -16,53 +16,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "Modulo Adaptar/congratulations",
+              "path": "/docs/Modulo Adaptar/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "Modulo Adaptar/create-a-blog-post",
+              "path": "/docs/Modulo Adaptar/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "Modulo Adaptar/create-a-document",
+              "path": "/docs/Modulo Adaptar/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "Modulo Adaptar/create-a-page",
+              "path": "/docs/Modulo Adaptar/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "Modulo Adaptar/deploy-your-site",
+              "path": "/docs/Modulo Adaptar/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "Modulo Adaptar/markdown-features",
+              "path": "/docs/Modulo Adaptar/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "Modulo Decopling/manage-docs-versions",
+              "path": "/docs/Modulo Decopling/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "Modulo Decopling/translate-your-site",
+              "path": "/docs/Modulo Decopling/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "/category/modulo-desacople",
+              "path": "/docs/category/modulo-desacople",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/modulo-adaptar",
+              "path": "/docs/category/modulo-adaptar",
               "sidebar": "tutorialSidebar"
             }
           ],

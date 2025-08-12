@@ -1,0 +1,27 @@
+{
+  "id": "Modulo Adaptar/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/Modulo Adaptar/create-a-page.md",
+  "sourceDirName": "Modulo Adaptar",
+  "slug": "/Modulo Adaptar/create-a-page",
+  "permalink": "/docs/Modulo Adaptar/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Modulo Adaptar/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modulo Desacople",
+    "permalink": "/docs/category/modulo-desacople"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/Modulo Adaptar/create-a-document"
+  }
+}

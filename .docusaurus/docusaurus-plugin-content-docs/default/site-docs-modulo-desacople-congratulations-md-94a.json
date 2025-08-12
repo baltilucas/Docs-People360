@@ -1,0 +1,27 @@
+{
+  "id": "Modulo Desacople/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/Modulo Desacople/congratulations.md",
+  "sourceDirName": "Modulo Desacople",
+  "slug": "/Modulo Desacople/congratulations",
+  "permalink": "/docs/Modulo Desacople/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Modulo Desacople/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/Modulo Desacople/deploy-your-site"
+  },
+  "next": {
+    "title": "Modulo Decoupling",
+    "permalink": "/docs/category/modulo-decoupling"
+  }
+}
