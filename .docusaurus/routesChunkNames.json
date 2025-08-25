@@ -249,62 +249,82 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-1a1": {
+  "/docs-40b": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-bff": {
+  "/docs-2b2": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-e83": {
+  "/docs-2d7": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/modulo-adaptar-eaf": {
+  "/docs/category/modulo-de-actualización-a04": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-adaptar-1-a-3-d99"
+    "__props": "__props---docs-category-modulo-de-actualizacion-728-90c"
   },
-  "/docs/category/modulo-desacople-3e1": {
+  "/docs/category/modulo-de-adaptación-f31": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-desacople-034-674"
+    "__props": "__props---docs-category-modulo-de-adaptacionefd-85f"
+  },
+  "/docs/category/modulo-de-desacople-85a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-modulo-de-desacople-74-b-665"
+  },
+  "/docs/category/modulo-de-inicialización-41e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-modulo-de-inicializacion-2-c-1-945"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/Modulo Adaptar/congratulations-ed9": {
+  "/docs/Modulo de Actualización/manage-docs-versions-491": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-adaptar-congratulations-25-c-241"
+    "content": "content---docs-modulo-de-actualizacion-manage-docs-versionsf-1-b-f8b"
   },
-  "/docs/Modulo Adaptar/create-a-blog-post-d2a": {
+  "/docs/Modulo de Actualización/translate-your-site-7b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-adaptar-create-a-blog-post-7-f-8-6a5"
+    "content": "content---docs-modulo-de-actualizacion-translate-your-site-574-e66"
   },
-  "/docs/Modulo Adaptar/create-a-document-514": {
+  "/docs/Modulo de Adaptación/congratulations-484": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-adaptar-create-a-document-741-7e7"
+    "content": "content---docs-modulo-de-adaptacion-congratulations-5-e-5-b26"
   },
-  "/docs/Modulo Adaptar/create-a-page-936": {
+  "/docs/Modulo de Adaptación/create-a-blog-post-01a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-adaptar-create-a-pagef-3-a-05d"
+    "content": "content---docs-modulo-de-adaptacion-create-a-blog-postd-52-432"
   },
-  "/docs/Modulo Adaptar/deploy-your-site-8d1": {
+  "/docs/Modulo de Adaptación/create-a-document-369": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-adaptar-deploy-your-site-517-0c0"
+    "content": "content---docs-modulo-de-adaptacion-create-a-documenta-5-b-629"
   },
-  "/docs/Modulo Adaptar/markdown-features-341": {
+  "/docs/Modulo de Adaptación/create-a-page-725": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-adaptar-markdown-features-9-bc-22f"
+    "content": "content---docs-modulo-de-adaptacion-create-a-page-2-d-8-782"
   },
-  "/docs/Modulo Decopling/manage-docs-versions-463": {
+  "/docs/Modulo de Adaptación/deploy-your-site-899": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-decopling-manage-docs-versions-68-c-cb5"
+    "content": "content---docs-modulo-de-adaptacion-deploy-your-siteb-56-957"
   },
-  "/docs/Modulo Decopling/translate-your-site-d0a": {
+  "/docs/Modulo de Adaptación/markdown-features-3c2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-decopling-translate-your-site-7-d-7-876"
+    "content": "content---docs-modulo-de-adaptacion-markdown-features-69-a-7f0"
+  },
+  "/docs/Modulo de Desacople/manage-docs-versions-eda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-desacople-manage-docs-versionsb-42-3d5"
+  },
+  "/docs/Modulo de Desacople/translate-your-site-d18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-desacople-translate-your-site-6-b-0-9ac"
+  },
+  "/docs/Modulo de Inicialización/AWS/manage-docs-versions-95f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-inicializacion-aws-manage-docs-versions-611-285"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

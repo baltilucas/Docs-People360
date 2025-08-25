@@ -15,8 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Toda la información, un solo lugar.
       </>
     ),
   },
@@ -25,8 +24,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        + Sistema desacoplado y sin servidor<br/>
+        + Visualización de información<br/>
+        + Actualización automática de información
       </>
     ),
   },
@@ -34,10 +34,11 @@ const FeatureList: FeatureItem[] = [
     title: 'Mejorar Procesos',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <ul>
+        <li>Optimización de toma de decisiones</li>
+        <li>Escalable para el futuro</li>
+        <li>Despliegue agnóstico</li>
+      </ul>
     ),
   },
 ];

@@ -16,53 +16,78 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Adaptar/congratulations",
-              "path": "/docs/Modulo Adaptar/congratulations",
+              "id": "Modulo de Actualización/manage-docs-versions",
+              "path": "/docs/Modulo de Actualización/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Adaptar/create-a-blog-post",
-              "path": "/docs/Modulo Adaptar/create-a-blog-post",
+              "id": "Modulo de Actualización/translate-your-site",
+              "path": "/docs/Modulo de Actualización/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Adaptar/create-a-document",
-              "path": "/docs/Modulo Adaptar/create-a-document",
+              "id": "Modulo de Adaptación/congratulations",
+              "path": "/docs/Modulo de Adaptación/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Adaptar/create-a-page",
-              "path": "/docs/Modulo Adaptar/create-a-page",
+              "id": "Modulo de Adaptación/create-a-blog-post",
+              "path": "/docs/Modulo de Adaptación/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Adaptar/deploy-your-site",
-              "path": "/docs/Modulo Adaptar/deploy-your-site",
+              "id": "Modulo de Adaptación/create-a-document",
+              "path": "/docs/Modulo de Adaptación/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Adaptar/markdown-features",
-              "path": "/docs/Modulo Adaptar/markdown-features",
+              "id": "Modulo de Adaptación/create-a-page",
+              "path": "/docs/Modulo de Adaptación/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Decopling/manage-docs-versions",
-              "path": "/docs/Modulo Decopling/manage-docs-versions",
+              "id": "Modulo de Adaptación/deploy-your-site",
+              "path": "/docs/Modulo de Adaptación/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo Decopling/translate-your-site",
-              "path": "/docs/Modulo Decopling/translate-your-site",
+              "id": "Modulo de Adaptación/markdown-features",
+              "path": "/docs/Modulo de Adaptación/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/modulo-desacople",
-              "path": "/docs/category/modulo-desacople",
+              "id": "Modulo de Desacople/manage-docs-versions",
+              "path": "/docs/Modulo de Desacople/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/modulo-adaptar",
-              "path": "/docs/category/modulo-adaptar",
+              "id": "Modulo de Desacople/translate-your-site",
+              "path": "/docs/Modulo de Desacople/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/manage-docs-versions",
+              "path": "/docs/Modulo de Inicialización/AWS/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/modulo-de-inicialización",
+              "path": "/docs/category/modulo-de-inicialización",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/modulo-de-desacople",
+              "path": "/docs/category/modulo-de-desacople",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/modulo-de-adaptación",
+              "path": "/docs/category/modulo-de-adaptación",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/modulo-de-actualización",
+              "path": "/docs/category/modulo-de-actualización",
               "sidebar": "tutorialSidebar"
             }
           ],

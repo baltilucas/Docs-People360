@@ -114,25 +114,37 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '1a1'),
+    component: ComponentCreator('/docs', '40b'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'bff'),
+        component: ComponentCreator('/docs', '2b2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e83'),
+            component: ComponentCreator('/docs', '2d7'),
             routes: [
               {
-                path: '/docs/category/modulo-adaptar',
-                component: ComponentCreator('/docs/category/modulo-adaptar', 'eaf'),
+                path: '/docs/category/modulo-de-actualización',
+                component: ComponentCreator('/docs/category/modulo-de-actualización', 'a04'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/modulo-desacople',
-                component: ComponentCreator('/docs/category/modulo-desacople', '3e1'),
+                path: '/docs/category/modulo-de-adaptación',
+                component: ComponentCreator('/docs/category/modulo-de-adaptación', 'f31'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/modulo-de-desacople',
+                component: ComponentCreator('/docs/category/modulo-de-desacople', '85a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/modulo-de-inicialización',
+                component: ComponentCreator('/docs/category/modulo-de-inicialización', '41e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -143,50 +155,68 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Adaptar/congratulations',
-                component: ComponentCreator('/docs/Modulo Adaptar/congratulations', 'ed9'),
+                path: '/docs/Modulo de Actualización/manage-docs-versions',
+                component: ComponentCreator('/docs/Modulo de Actualización/manage-docs-versions', '491'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Adaptar/create-a-blog-post',
-                component: ComponentCreator('/docs/Modulo Adaptar/create-a-blog-post', 'd2a'),
+                path: '/docs/Modulo de Actualización/translate-your-site',
+                component: ComponentCreator('/docs/Modulo de Actualización/translate-your-site', '7b6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Adaptar/create-a-document',
-                component: ComponentCreator('/docs/Modulo Adaptar/create-a-document', '514'),
+                path: '/docs/Modulo de Adaptación/congratulations',
+                component: ComponentCreator('/docs/Modulo de Adaptación/congratulations', '484'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Adaptar/create-a-page',
-                component: ComponentCreator('/docs/Modulo Adaptar/create-a-page', '936'),
+                path: '/docs/Modulo de Adaptación/create-a-blog-post',
+                component: ComponentCreator('/docs/Modulo de Adaptación/create-a-blog-post', '01a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Adaptar/deploy-your-site',
-                component: ComponentCreator('/docs/Modulo Adaptar/deploy-your-site', '8d1'),
+                path: '/docs/Modulo de Adaptación/create-a-document',
+                component: ComponentCreator('/docs/Modulo de Adaptación/create-a-document', '369'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Adaptar/markdown-features',
-                component: ComponentCreator('/docs/Modulo Adaptar/markdown-features', '341'),
+                path: '/docs/Modulo de Adaptación/create-a-page',
+                component: ComponentCreator('/docs/Modulo de Adaptación/create-a-page', '725'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Decopling/manage-docs-versions',
-                component: ComponentCreator('/docs/Modulo Decopling/manage-docs-versions', '463'),
+                path: '/docs/Modulo de Adaptación/deploy-your-site',
+                component: ComponentCreator('/docs/Modulo de Adaptación/deploy-your-site', '899'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo Decopling/translate-your-site',
-                component: ComponentCreator('/docs/Modulo Decopling/translate-your-site', 'd0a'),
+                path: '/docs/Modulo de Adaptación/markdown-features',
+                component: ComponentCreator('/docs/Modulo de Adaptación/markdown-features', '3c2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Modulo de Desacople/manage-docs-versions',
+                component: ComponentCreator('/docs/Modulo de Desacople/manage-docs-versions', 'eda'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Modulo de Desacople/translate-your-site',
+                component: ComponentCreator('/docs/Modulo de Desacople/translate-your-site', 'd18'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Modulo de Inicialización/AWS/manage-docs-versions',
+                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/manage-docs-versions', '95f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

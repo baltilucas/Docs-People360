@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Actualización/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/Modulo de Actualización/manage-docs-versions.md",
+  "sourceDirName": "Modulo de Actualización",
+  "slug": "/Modulo de Actualización/manage-docs-versions",
+  "permalink": "/docs/Modulo de Actualización/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Modulo de Actualización",
+    "permalink": "/docs/category/modulo-de-actualización"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/Modulo de Actualización/translate-your-site"
+  }
+}
