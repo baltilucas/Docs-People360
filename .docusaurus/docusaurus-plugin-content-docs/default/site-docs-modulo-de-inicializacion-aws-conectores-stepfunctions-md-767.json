@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Inicialización/AWS/Conectores/stepfunctions",
+  "title": "StepFunctions",
+  "description": "Este conector se encarga de utilizar la información dada para entregarla al sistema de StepFunctions e iniciar el proceso ETL.",
+  "source": "@site/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions.md",
+  "sourceDirName": "Modulo de Inicialización/AWS/Conectores",
+  "slug": "/Modulo de Inicialización/AWS/Conectores/stepfunctions",
+  "permalink": "/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SecretsManager",
+    "permalink": "/docs/Modulo de Inicialización/AWS/Conectores/secretsmanager"
+  },
+  "next": {
+    "title": "Modulo de Desacople",
+    "permalink": "/docs/category/modulo-de-desacople"
+  }
+}

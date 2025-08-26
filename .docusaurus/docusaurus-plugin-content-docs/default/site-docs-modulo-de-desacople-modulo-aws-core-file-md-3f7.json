@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Desacople/Módulo - AWS/Core/file",
+  "title": "Archivos",
+  "description": "Este conector se encarga de de obtener la información de las bases de datos de las cuales se obtuvo la información en fórmato CSV o PARQUET.",
+  "source": "@site/docs/Modulo de Desacople/Módulo - AWS/Core/file.md",
+  "sourceDirName": "Modulo de Desacople/Módulo - AWS/Core",
+  "slug": "/Modulo de Desacople/Módulo - AWS/Core/file",
+  "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Core/file",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core",
+    "permalink": "/docs/category/core"
+  },
+  "next": {
+    "title": "Resumen",
+    "permalink": "/docs/Modulo de Desacople/Módulo - AWS/overview"
+  }
+}

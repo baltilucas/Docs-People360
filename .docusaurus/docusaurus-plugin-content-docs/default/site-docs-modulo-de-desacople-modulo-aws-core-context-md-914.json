@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Desacople/Módulo - AWS/Core/context",
+  "title": "Contexto",
+  "description": "Esta parte del sistema se encarga de utilizar todos los sistemas para crear un procesador que verifica la integridad de los datos para luego cargarlos al S3 Bucket (Bronze)",
+  "source": "@site/docs/Modulo de Desacople/Módulo - AWS/Core/context.md",
+  "sourceDirName": "Modulo de Desacople/Módulo - AWS/Core",
+  "slug": "/Modulo de Desacople/Módulo - AWS/Core/context",
+  "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Core/context",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core",
+    "permalink": "/docs/category/core"
+  },
+  "next": {
+    "title": "Registro",
+    "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Core/registry"
+  }
+}

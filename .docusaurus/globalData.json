@@ -56,18 +56,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/manage-docs-versions",
-              "path": "/docs/Modulo de Desacople/manage-docs-versions",
+              "id": "Modulo de Desacople/Módulo - AWS/Conectores/database",
+              "path": "/docs/Modulo de Desacople/Módulo - AWS/Conectores/database",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/translate-your-site",
-              "path": "/docs/Modulo de Desacople/translate-your-site",
+              "id": "Modulo de Desacople/Módulo - AWS/Conectores/file",
+              "path": "/docs/Modulo de Desacople/Módulo - AWS/Conectores/file",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Inicialización/AWS/manage-docs-versions",
-              "path": "/docs/Modulo de Inicialización/AWS/manage-docs-versions",
+              "id": "Modulo de Desacople/Módulo - AWS/Core/context",
+              "path": "/docs/Modulo de Desacople/Módulo - AWS/Core/context",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Desacople/Módulo - AWS/Core/registry",
+              "path": "/docs/Modulo de Desacople/Módulo - AWS/Core/registry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Desacople/Módulo - AWS/overview",
+              "path": "/docs/Modulo de Desacople/Módulo - AWS/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/Conectores/dynamodb",
+              "path": "/docs/Modulo de Inicialización/AWS/Conectores/dynamodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/Conectores/secretsmanager",
+              "path": "/docs/Modulo de Inicialización/AWS/Conectores/secretsmanager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/Conectores/stepfunctions",
+              "path": "/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/overview",
+              "path": "/docs/Modulo de Inicialización/AWS/overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -76,8 +106,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/módulo---aws",
+              "path": "/docs/category/módulo---aws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conectores",
+              "path": "/docs/category/conectores",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/modulo-de-desacople",
               "path": "/docs/category/modulo-de-desacople",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/modulo---aws",
+              "path": "/docs/category/modulo---aws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/core",
+              "path": "/docs/category/core",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conectores-1",
+              "path": "/docs/category/conectores-1",
               "sidebar": "tutorialSidebar"
             },
             {

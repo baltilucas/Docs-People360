@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Desacople/Módulo - AWS/Core/database",
+  "title": "Base de datos",
+  "description": "Este conector se encarga de enlazar las bases de datos proporcionadas utilizando la URL de la base de datos para la conexión",
+  "source": "@site/docs/Modulo de Desacople/Módulo - AWS/Core/database.md",
+  "sourceDirName": "Modulo de Desacople/Módulo - AWS/Core",
+  "slug": "/Modulo de Desacople/Módulo - AWS/Core/database",
+  "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Core/database",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Core",
+    "permalink": "/docs/category/core"
+  },
+  "next": {
+    "title": "Archivos",
+    "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Core/file"
+  }
+}

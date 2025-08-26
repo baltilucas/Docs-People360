@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Modulo de Desacople",
-    "permalink": "/docs/category/modulo-de-desacople"
+    "title": "Resumen",
+    "permalink": "/docs/Modulo de Desacople/Módulo - AWS/overview"
   },
   "next": {
-    "title": "Translate your site",
-    "permalink": "/docs/Modulo de Desacople/translate-your-site"
+    "title": "Modulo de Adaptación",
+    "permalink": "/docs/category/modulo-de-adaptación"
   }
 }

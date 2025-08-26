@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Inicialización/AWS/overview",
+  "title": "Resumen",
+  "description": "Este módulo se encarga de iniciar y dar los preparativos al sistema ETL",
+  "source": "@site/docs/Modulo de Inicialización/AWS/overview.md",
+  "sourceDirName": "Modulo de Inicialización/AWS",
+  "slug": "/Modulo de Inicialización/AWS/overview",
+  "permalink": "/docs/Modulo de Inicialización/AWS/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Módulo - AWS",
+    "permalink": "/docs/category/módulo---aws"
+  },
+  "next": {
+    "title": "Conectores",
+    "permalink": "/docs/category/conectores"
+  }
+}

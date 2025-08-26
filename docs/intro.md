@@ -8,16 +8,15 @@ sidebar_position: 0
 <p>Estos están distribuidos en múltiples bases de datos, con distintos fórmatos y manejo, debido a esto nace la idea de crear un Data Warehouse.</p>
 <p>La idea es procesar y gestionar todos los datos provenientes de distintos países donde está presente Cencosud.</p>
 
-
 ## Descripción General
 
 El proyecto del Data Warehouse está organizado en cuarto partes principales
 
 <ol>
-    <li>Inicio de Pipeline</li>
-    <li>Módulo de Desacople</li>
-    <li>Módulo de Adaptación</li>
-    <li>Módulo de Actualización</li>
+    <li><a href = "/docs/category/modulo-de-inicialización">Inicio de Pipeline</a></li>
+    <li><a href = "/docs/category/modulo-de-desacople">Módulo de Desacople</a></li>
+    <li><a href = "/docs/category/modulo-de-adaptación">Módulo de Adaptación</a></li>
+    <li><a href = "/docs/category/modulo-de-actualización">Módulo de Actualización</a></li>
 </ol>
 
 ### 1. Inicio de Pipeline

@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Desacople/Módulo - AWS/Conectores copy/file",
+  "title": "Archivos",
+  "description": "Este conector se encarga de de obtener la información de las bases de datos de las cuales se obtuvo la información en fórmato CSV o PARQUET.",
+  "source": "@site/docs/Modulo de Desacople/Módulo - AWS/Conectores copy/file.md",
+  "sourceDirName": "Modulo de Desacople/Módulo - AWS/Conectores copy",
+  "slug": "/Modulo de Desacople/Módulo - AWS/Conectores copy/file",
+  "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Conectores copy/file",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Base de datos",
+    "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Conectores copy/database"
+  },
+  "next": {
+    "title": "Modulo de Adaptación",
+    "permalink": "/docs/category/modulo-de-adaptación"
+  }
+}

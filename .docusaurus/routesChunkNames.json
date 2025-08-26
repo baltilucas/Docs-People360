@@ -249,18 +249,38 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-40b": {
+  "/docs-ecc": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-2b2": {
+  "/docs-d55": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-2d7": {
+  "/docs-f73": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/conectores-62e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-conectores-56-c-aae"
+  },
+  "/docs/category/conectores-1-808": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-conectores-151-f-ff2"
+  },
+  "/docs/category/core-e3f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-core-7-ba-cb8"
+  },
+  "/docs/category/modulo---aws-8ee": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-modulo-aws-209-08c"
+  },
+  "/docs/category/módulo---aws-480": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-modulo-aws-86-a-716"
   },
   "/docs/category/modulo-de-actualización-a04": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -314,17 +334,41 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-modulo-de-adaptacion-markdown-features-69-a-7f0"
   },
-  "/docs/Modulo de Desacople/manage-docs-versions-eda": {
+  "/docs/Modulo de Desacople/Módulo - AWS/Conectores/database-69c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-manage-docs-versionsb-42-3d5"
+    "content": "content---docs-modulo-de-desacople-modulo-aws-conectores-database-680-d8d"
   },
-  "/docs/Modulo de Desacople/translate-your-site-d18": {
+  "/docs/Modulo de Desacople/Módulo - AWS/Conectores/file-cb4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-translate-your-site-6-b-0-9ac"
+    "content": "content---docs-modulo-de-desacople-modulo-aws-conectores-file-33-a-c8c"
   },
-  "/docs/Modulo de Inicialización/AWS/manage-docs-versions-95f": {
+  "/docs/Modulo de Desacople/Módulo - AWS/Core/context-56e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-inicializacion-aws-manage-docs-versions-611-285"
+    "content": "content---docs-modulo-de-desacople-modulo-aws-core-context-914-97a"
+  },
+  "/docs/Modulo de Desacople/Módulo - AWS/Core/registry-981": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-desacople-modulo-aws-core-registry-8-b-6-4be"
+  },
+  "/docs/Modulo de Desacople/Módulo - AWS/overview-251": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-desacople-modulo-aws-overview-927-c8f"
+  },
+  "/docs/Modulo de Inicialización/AWS/Conectores/dynamodb-3b1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-inicializacion-aws-conectores-dynamodbd-00-c25"
+  },
+  "/docs/Modulo de Inicialización/AWS/Conectores/secretsmanager-908": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-inicializacion-aws-conectores-secretsmanager-6-a-4-0eb"
+  },
+  "/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions-d70": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-inicializacion-aws-conectores-stepfunctions-767-c1a"
+  },
+  "/docs/Modulo de Inicialización/AWS/overview-1b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modulo-de-inicializacion-aws-overview-85-a-fe0"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
