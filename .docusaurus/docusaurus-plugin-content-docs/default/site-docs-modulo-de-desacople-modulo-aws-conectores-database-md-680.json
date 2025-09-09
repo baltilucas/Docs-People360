@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Conectores",
-    "permalink": "/docs/category/conectores-1"
+    "permalink": "/docs/category/conectores"
   },
   "next": {
     "title": "Archivos",
-    "permalink": "/docs/Modulo de Desacople/Módulo - AWS/Conectores/file"
+    "permalink": "/docs/Modulo de Desacople/file"
   }
 }

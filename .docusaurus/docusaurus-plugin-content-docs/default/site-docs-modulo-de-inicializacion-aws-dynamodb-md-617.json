@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Inicialización/AWS/dynamodb",
+  "title": "DynamoDB",
+  "description": "Se utiliza un objeto de Python para mantener la información desde la conexión a DynamoDB con tal de abstraer los sistemas lo necesario si en algún punto se desease implementar otros servicios de la nube.",
+  "source": "@site/docs/Modulo de Inicialización/AWS/dynamodb.md",
+  "sourceDirName": "Modulo de Inicialización/AWS",
+  "slug": "/Modulo de Inicialización/AWS/dynamodb",
+  "permalink": "/docs/Modulo de Inicialización/AWS/dynamodb",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resumen",
+    "permalink": "/docs/Modulo de Inicialización/AWS/overview"
+  },
+  "next": {
+    "title": "SecretsManager",
+    "permalink": "/docs/Modulo de Inicialización/AWS/secretsmanager"
+  }
+}

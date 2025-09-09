@@ -1,7 +1,7 @@
 {
   "id": "Modulo de Desacople/overview",
-  "title": "Translate your site",
-  "description": "Let's translate docs/intro.md to French.",
+  "title": "Resumen",
+  "description": "Esta capa se encarga de obtener la información desde las distintas fuentes para guardarlas en una S3 bucket (bronze)",
   "source": "@site/docs/Modulo de Desacople/overview.md",
   "sourceDirName": "Modulo de Desacople",
   "slug": "/Modulo de Desacople/overview",
@@ -10,17 +10,17 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 2,
+  "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 2
+    "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Manage Docs Versions",
-    "permalink": "/docs/Modulo de Desacople/manage-docs-versions"
+    "title": "Contexto",
+    "permalink": "/docs/Modulo de Desacople/context"
   },
   "next": {
-    "title": "Modulo de Adaptación",
-    "permalink": "/docs/category/modulo-de-adaptación"
+    "title": "Base de datos",
+    "permalink": "/docs/Modulo de Desacople/database"
   }
 }

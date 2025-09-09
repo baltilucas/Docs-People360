@@ -20,7 +20,7 @@
     "permalink": "/docs/category/módulo---aws"
   },
   "next": {
-    "title": "Conectores",
-    "permalink": "/docs/category/conectores"
+    "title": "DynamoDB",
+    "permalink": "/docs/Modulo de Inicialización/AWS/dynamodb"
   }
 }

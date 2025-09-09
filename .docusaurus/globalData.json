@@ -56,48 +56,48 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/Módulo - AWS/Conectores/database",
-              "path": "/docs/Modulo de Desacople/Módulo - AWS/Conectores/database",
+              "id": "Modulo de Desacople/context",
+              "path": "/docs/Modulo de Desacople/context",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/Módulo - AWS/Conectores/file",
-              "path": "/docs/Modulo de Desacople/Módulo - AWS/Conectores/file",
+              "id": "Modulo de Desacople/database",
+              "path": "/docs/Modulo de Desacople/database",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/Módulo - AWS/Core/context",
-              "path": "/docs/Modulo de Desacople/Módulo - AWS/Core/context",
+              "id": "Modulo de Desacople/file",
+              "path": "/docs/Modulo de Desacople/file",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/Módulo - AWS/Core/registry",
-              "path": "/docs/Modulo de Desacople/Módulo - AWS/Core/registry",
+              "id": "Modulo de Desacople/overview",
+              "path": "/docs/Modulo de Desacople/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/Módulo - AWS/overview",
-              "path": "/docs/Modulo de Desacople/Módulo - AWS/overview",
+              "id": "Modulo de Desacople/registry",
+              "path": "/docs/Modulo de Desacople/registry",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Inicialización/AWS/Conectores/dynamodb",
-              "path": "/docs/Modulo de Inicialización/AWS/Conectores/dynamodb",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Modulo de Inicialización/AWS/Conectores/secretsmanager",
-              "path": "/docs/Modulo de Inicialización/AWS/Conectores/secretsmanager",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Modulo de Inicialización/AWS/Conectores/stepfunctions",
-              "path": "/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions",
+              "id": "Modulo de Inicialización/AWS/dynamodb",
+              "path": "/docs/Modulo de Inicialización/AWS/dynamodb",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Modulo de Inicialización/AWS/overview",
               "path": "/docs/Modulo de Inicialización/AWS/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/secretsmanager",
+              "path": "/docs/Modulo de Inicialización/AWS/secretsmanager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Modulo de Inicialización/AWS/stepfunctions",
+              "path": "/docs/Modulo de Inicialización/AWS/stepfunctions",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -111,28 +111,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/conectores",
-              "path": "/docs/category/conectores",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "/category/modulo-de-desacople",
               "path": "/docs/category/modulo-de-desacople",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/modulo---aws",
-              "path": "/docs/category/modulo---aws",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/core",
-              "path": "/docs/category/core",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/conectores-1",
-              "path": "/docs/category/conectores-1",
               "sidebar": "tutorialSidebar"
             },
             {

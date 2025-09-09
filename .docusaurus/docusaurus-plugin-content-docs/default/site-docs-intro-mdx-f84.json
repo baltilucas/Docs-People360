@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Descripción Proyecto",
+  "description": "El proyecto PeopleData 360 nace con el objetivo de unificar sistemas del área de Personas de Cencosud.",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Modulo de Inicialización",
+    "permalink": "/docs/category/modulo-de-inicialización"
+  }
+}

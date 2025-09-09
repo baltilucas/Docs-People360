@@ -19,6 +19,11 @@ El proyecto del Data Warehouse está organizado en cuarto partes principales
     <li><a href = "/docs/category/modulo-de-actualización">Módulo de Actualización</a></li>
 </ol>
 
+
+<div style={{border:"20px", backgroundColor:"#000000", padding:"10px"}}>
+![Docs Version Dropdown](./img/diagrama_completo.png)
+</div>
+
 ### 1. Inicio de Pipeline
 
 Sistema de inicio del proceso ETL (Extract, Transform and Load), se conecta a un calendarizador (e.g. AWS EventBridge Scheduler) para la inicialización.
@@ -42,3 +47,4 @@ El proyecto funciona a base de unificar la información, esta información se ob
 ## Palabras finales
 
 Esperamos que este sistema de Data Warehouse permita a la empresa mejorar su toma de decisiones con tal de aumentar el conocimiento de los distintos puntos de la empresa, especialmente aquellos que son complicados de conocer sin un análisis previo.
+

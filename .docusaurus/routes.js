@@ -114,40 +114,16 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ecc'),
+    component: ComponentCreator('/docs', 'a56'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd55'),
+        component: ComponentCreator('/docs', '236'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'f73'),
+            component: ComponentCreator('/docs', 'e37'),
             routes: [
-              {
-                path: '/docs/category/conectores',
-                component: ComponentCreator('/docs/category/conectores', '62e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/conectores-1',
-                component: ComponentCreator('/docs/category/conectores-1', '808'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/core',
-                component: ComponentCreator('/docs/category/core', 'e3f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/category/modulo---aws',
-                component: ComponentCreator('/docs/category/modulo---aws', '8ee'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/docs/category/módulo---aws',
                 component: ComponentCreator('/docs/category/módulo---aws', '480'),
@@ -233,56 +209,56 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/Módulo - AWS/Conectores/database',
-                component: ComponentCreator('/docs/Modulo de Desacople/Módulo - AWS/Conectores/database', '69c'),
+                path: '/docs/Modulo de Desacople/context',
+                component: ComponentCreator('/docs/Modulo de Desacople/context', '913'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/Módulo - AWS/Conectores/file',
-                component: ComponentCreator('/docs/Modulo de Desacople/Módulo - AWS/Conectores/file', 'cb4'),
+                path: '/docs/Modulo de Desacople/database',
+                component: ComponentCreator('/docs/Modulo de Desacople/database', '409'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/Módulo - AWS/Core/context',
-                component: ComponentCreator('/docs/Modulo de Desacople/Módulo - AWS/Core/context', '56e'),
+                path: '/docs/Modulo de Desacople/file',
+                component: ComponentCreator('/docs/Modulo de Desacople/file', '9a0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/Módulo - AWS/Core/registry',
-                component: ComponentCreator('/docs/Modulo de Desacople/Módulo - AWS/Core/registry', '981'),
+                path: '/docs/Modulo de Desacople/overview',
+                component: ComponentCreator('/docs/Modulo de Desacople/overview', '4bc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/Módulo - AWS/overview',
-                component: ComponentCreator('/docs/Modulo de Desacople/Módulo - AWS/overview', '251'),
+                path: '/docs/Modulo de Desacople/registry',
+                component: ComponentCreator('/docs/Modulo de Desacople/registry', '65c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Inicialización/AWS/Conectores/dynamodb',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/Conectores/dynamodb', '3b1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Modulo de Inicialización/AWS/Conectores/secretsmanager',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/Conectores/secretsmanager', '908'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/Conectores/stepfunctions', 'd70'),
+                path: '/docs/Modulo de Inicialización/AWS/dynamodb',
+                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/dynamodb', 'c28'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/Modulo de Inicialización/AWS/overview',
                 component: ComponentCreator('/docs/Modulo de Inicialización/AWS/overview', '1b7'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Modulo de Inicialización/AWS/secretsmanager',
+                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/secretsmanager', 'd72'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Modulo de Inicialización/AWS/stepfunctions',
+                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/stepfunctions', '100'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
