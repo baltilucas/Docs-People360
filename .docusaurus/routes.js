@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a56'),
+    component: ComponentCreator('/docs', 'c7f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '236'),
+        component: ComponentCreator('/docs', '504'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'e37'),
+            component: ComponentCreator('/docs', '145'),
             routes: [
               {
                 path: '/docs/category/módulo---aws',
@@ -151,6 +151,12 @@ export default [
               {
                 path: '/docs/category/modulo-de-inicialización',
                 component: ComponentCreator('/docs/category/modulo-de-inicialización', '41e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/configuracion-dynamo',
+                component: ComponentCreator('/docs/configuracion-dynamo', 'e7e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

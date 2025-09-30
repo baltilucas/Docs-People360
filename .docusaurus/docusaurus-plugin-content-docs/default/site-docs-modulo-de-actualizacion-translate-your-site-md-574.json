@@ -18,5 +18,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/docs/Modulo de Actualización/manage-docs-versions"
+  },
+  "next": {
+    "title": "Configuraciones",
+    "permalink": "/docs/configuracion-dynamo"
   }
 }
