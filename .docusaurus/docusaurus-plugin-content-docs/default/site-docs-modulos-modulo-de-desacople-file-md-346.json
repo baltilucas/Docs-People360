@@ -1,0 +1,26 @@
+{
+  "id": "Módulos/Modulo de Desacople/file",
+  "title": "Archivos",
+  "description": "Este conector se encarga de de obtener la información de las bases de datos de las cuales se obtuvo la información en fórmato CSV o PARQUET.",
+  "source": "@site/docs/Módulos/Modulo de Desacople/file.md",
+  "sourceDirName": "Módulos/Modulo de Desacople",
+  "slug": "/Módulos/Modulo de Desacople/file",
+  "permalink": "/docs/Módulos/Modulo de Desacople/file",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Base de datos",
+    "permalink": "/docs/Módulos/Modulo de Desacople/database"
+  },
+  "next": {
+    "title": "Registro",
+    "permalink": "/docs/Módulos/Modulo de Desacople/registry"
+  }
+}

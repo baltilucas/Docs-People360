@@ -18,5 +18,9 @@
   "previous": {
     "title": "Translate your site",
     "permalink": "/docs/Modulo de Actualización/translate-your-site"
+  },
+  "next": {
+    "title": "Resumen",
+    "permalink": "/docs/Modulo de Inicialización/overview"
   }
 }

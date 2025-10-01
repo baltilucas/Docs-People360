@@ -1,11 +1,11 @@
 {
-  "id": "Modulo de Adaptación/create-a-page",
+  "id": "Módulos/Modulo de Adaptación/create-a-page",
   "title": "Create a Page",
   "description": "Add Markdown or React files to src/pages to create a standalone page:",
-  "source": "@site/docs/Modulo de Adaptación/create-a-page.md",
-  "sourceDirName": "Modulo de Adaptación",
-  "slug": "/Modulo de Adaptación/create-a-page",
-  "permalink": "/docs/Modulo de Adaptación/create-a-page",
+  "source": "@site/docs/Módulos/Modulo de Adaptación/create-a-page.md",
+  "sourceDirName": "Módulos/Modulo de Adaptación",
+  "slug": "/Módulos/Modulo de Adaptación/create-a-page",
+  "permalink": "/docs/Módulos/Modulo de Adaptación/create-a-page",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -21,6 +21,6 @@
   },
   "next": {
     "title": "Create a Document",
-    "permalink": "/docs/Modulo de Adaptación/create-a-document"
+    "permalink": "/docs/Módulos/Modulo de Adaptación/create-a-document"
   }
 }

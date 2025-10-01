@@ -1,37 +1,16 @@
 ---
-sidebar_position: 10
+sidebar_position: 1
 ---
 
-# Configuraciones
-
-Las configuraciones de colaboradores tienen fórmato JSON y se importan desde DynamoDB.
-
-Estas configuraciones son utilizadas a través del procesos completo de ETL.
-
-
-<div>
-    <h4>
-        <ol>
-            <li>
-                Conexiones
-            </li>
-            <li>
-                Reglas
-            </li>
-        </ol>
-    </h4>
-</div>
-
-<div>
-    Las configuraciones se conectan con distintos servicios dependiendo de la necesidad del módulo, por ejemplo, se pueden obtener referencias a consultas de SQL utilizando S3.
-</div>
-
-
-# 1. Conexiones
+# Conexiones
 
 En el archivo de configuración se encuentra el sistema de conexión tanto para archivos CSV como Oracle Peoplesoft, es posible extraer la información de ambos utilizando la configuración:
 
-## Configuración Oracle - Spark
+## 1. Configuración Oracle - Spark
+
+### Ejemplo de configuración
+
+ES posible crear la siguiente configuración utilizando los atributos dados:
 
 ``` JSON title = "JSON CSV Config"
 {
@@ -89,30 +68,30 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
     - **Tipo**: String
 
     - **Ejemplo**:
-        ``` JSON
-        "name_id":"collaborators"
-        ```
+    ``` JSON
+    "name_id":"collaborators"
+    ```
 
 - **Connections**
     - **Descripción**: Lista de conexiones a las bases de datos
     - **Tipo**: Array
 
     - **Ejemplo**:
-        ``` JSON title = "connections_example.json"
-            "connections": [
-                {
-                "connection_id": "collaborator_bra_ps89",
-                "credentials_reference": "credentials_reference_1",
-                "query_reference": {
-                    "query": "s3://my-bucket/referential_path_queries/collaborator_bra_ps89.sql",
-                    "version": "1.0"
-                            },
-                "rules_reference": "s3://my-bucket/referential_path_quality/collaborator_bra_ps89.json",
-                "type": "database"
-                },
-                ...
-            ]
-        ```
+    ``` JSON title = "connections_example.json"
+    "connections": [
+        {
+        "connection_id": "collaborator_bra_ps89",
+        "credentials_reference": "credentials_reference_1",
+        "query_reference": {
+            "query": "s3://my-bucket/referential_path_queries/collaborator_bra_ps89.sql",
+            "version": "1.0"
+                    },
+        "rules_reference": "s3://my-bucket/referential_path_quality/collaborator_bra_ps89.json",
+        "type": "database"
+        },
+        ...
+    ]
+    ```
 
 - **Connection_Id**
     - **Descripción**: Nombre interno de la base de datos
@@ -120,8 +99,8 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "credentials_example.json"
-            "connection_id": "collaborator_bra_ps89"
-        ```
+    "connection_id": "collaborator_bra_ps89"
+    ```
 
 - **Credentials_Reference**
     - **Descripción**: Referencia a las credenciales necesarias para exportar información desde la base de datos
@@ -129,7 +108,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "credentials_example.json"
-            "credentials_reference": "credentials_reference_1"
+    "credentials_reference": "credentials_reference_1"
     ```
 
 - **Query_Reference**
@@ -138,10 +117,10 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "query_example.json"
-            "query_reference": {
-                "query": "s3://my-bucket/referential_path_queries/collaborator_bra_ps89.sql",
-                "version": "1.0"
-            },
+    "query_reference": {
+        "query": "s3://my-bucket/referential_path_queries/collaborator_bra_ps89.sql",
+        "version": "1.0"
+    },
     ```
 
     Encontramos dos datos dentro del diccionario de la consulta:
@@ -152,7 +131,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
         - **Ejemplo**: 
         ``` JSON title = "query_s3_example.json"
-                "query": "s3://my-bucket/referential_path_queries/collaborator_bra_ps89.sql"
+        "query": "s3://my-bucket/referential_path_queries/collaborator_bra_ps89.sql"
         ```
 
     - **Version**
@@ -161,7 +140,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
         - **Ejemplo**: 
         ``` JSON title = "query_version_example.json"
-                "version": "1.0"
+        "version": "1.0"
         ```
 
 - **Rules_Reference**
@@ -170,7 +149,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "rules_reference_example.json"
-            "rules_reference": "s3://my-bucket/referential_path_quality/collaborator_bra_ps89.json"
+    "rules_reference": "s3://my-bucket/referential_path_quality/collaborator_bra_ps89.json"
     ```
 
 - **Type**
@@ -179,7 +158,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "type_example.json"
-            "type": "database"
+    "type": "database"
     ```
 
 - **S3_Config**
@@ -188,10 +167,10 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "s3_config_example.json"
-        "s3_config": {
-            "bucket": "s3://bucket-middleware-test/data_output/",
-            "key": "collaborator/"
-        },
+    "s3_config": {
+        "bucket": "s3://bucket-middleware-test/data_output/",
+        "key": "collaborator/"
+    },
     ```
 
     - **Bucket**
@@ -200,7 +179,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
         - **Ejemplo**: 
         ``` JSON title = "s3_config_bucket_example.json"
-            "bucket": "s3://bucket-middleware-test/data_output/"
+        "bucket": "s3://bucket-middleware-test/data_output/"
         ```
 
     - **Key**
@@ -209,7 +188,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
         - **Ejemplo**: 
         ``` JSON title = "s3_config_key_example.json"
-            "key": "collaborator/"
+        "key": "collaborator/"
         ```
 
 - **Schema_Reference**
@@ -218,10 +197,10 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
     - **Ejemplo**: 
     ``` JSON title = "schema_reference_example.json"
-        "schema_reference": {
-            "schema": "s3://middleware/schemas/collaborator",
-            "version": "1.0"
-        }
+    "schema_reference": {
+        "schema": "s3://middleware/schemas/collaborator",
+        "version": "1.0"
+    }
     ```
     
     - **Schema**
@@ -230,7 +209,7 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
         - **Ejemplo**: 
         ``` JSON title = "schema_reference_s3_example.json"
-            "schema": "s3://middleware/schemas/collaborator"
+        "schema": "s3://middleware/schemas/collaborator"
         ```
 
     - **Version**
@@ -239,5 +218,6 @@ En las conexiones con la base de datos encontramos los siguientes atributos:
 
         - **Ejemplo**: 
         ``` JSON title = "schema_reference_version_example.json"
-            "version": "1.0"
+        "version": "1.0"
         ```
+

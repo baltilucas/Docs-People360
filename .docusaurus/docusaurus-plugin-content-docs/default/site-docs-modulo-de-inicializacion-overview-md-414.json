@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Inicialización/overview",
+  "title": "Resumen",
+  "description": "Este módulo se encarga de iniciar y dar los preparativos al sistema ETL",
+  "source": "@site/docs/Modulo de Inicialización/overview.md",
+  "sourceDirName": "Modulo de Inicialización",
+  "slug": "/Modulo de Inicialización/overview",
+  "permalink": "/docs/Modulo de Inicialización/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Módulo de inicialización",
+    "permalink": "/docs/category/módulo-de-inicialización"
+  },
+  "next": {
+    "title": "DynamoDB",
+    "permalink": "/docs/Modulo de Inicialización/dynamodb"
+  }
+}

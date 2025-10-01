@@ -1,0 +1,26 @@
+{
+  "id": "Modulo de Inicialización/stepfunctions",
+  "title": "StepFunctions",
+  "description": "Este conector se encarga de utilizar la información dada para entregarla al sistema de StepFunctions e iniciar el proceso ETL.",
+  "source": "@site/docs/Modulo de Inicialización/stepfunctions.md",
+  "sourceDirName": "Modulo de Inicialización",
+  "slug": "/Modulo de Inicialización/stepfunctions",
+  "permalink": "/docs/Modulo de Inicialización/stepfunctions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SecretsManager",
+    "permalink": "/docs/Modulo de Inicialización/secretsmanager"
+  },
+  "next": {
+    "title": "Módulo de Desacople",
+    "permalink": "/docs/category/módulo-de-desacople"
+  }
+}

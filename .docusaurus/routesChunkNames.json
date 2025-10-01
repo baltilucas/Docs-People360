@@ -249,114 +249,118 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-c7f": {
+  "/docs-747": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-504": {
+  "/docs-c07": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-145": {
+  "/docs-3df": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/módulo---aws-480": {
+  "/docs/category/configuraciones-b2b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-aws-86-a-716"
+    "__props": "__props---docs-category-configuraciones-977-ed3"
   },
-  "/docs/category/modulo-de-actualización-a04": {
+  "/docs/category/módulo-de-actualización-195": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-de-actualizacion-728-90c"
+    "__props": "__props---docs-category-modulo-de-actualizacioneb-7-4a7"
   },
-  "/docs/category/modulo-de-adaptación-f31": {
+  "/docs/category/módulo-de-adaptación-b63": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-de-adaptacionefd-85f"
+    "__props": "__props---docs-category-modulo-de-adaptacionb-1-a-5c6"
   },
-  "/docs/category/modulo-de-desacople-85a": {
+  "/docs/category/módulo-de-desacople-987": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-de-desacople-74-b-665"
+    "__props": "__props---docs-category-modulo-de-desacopleb-3-c-765"
   },
-  "/docs/category/modulo-de-inicialización-41e": {
+  "/docs/category/módulo-de-inicialización-53b": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-modulo-de-inicializacion-2-c-1-945"
+    "__props": "__props---docs-category-modulo-de-inicializaciona-40-f3a"
   },
-  "/docs/configuracion-dynamo-e7e": {
+  "/docs/category/módulos-64e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-modulos-5-e-7-142"
+  },
+  "/docs/Configuracions/configuracion-dynamo-ece": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-configuracion-dynamo-08-c-448"
+    "content": "content---docs-configuracions-configuracion-dynamo-97-f-d75"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/Modulo de Actualización/manage-docs-versions-491": {
+  "/docs/Módulos/Modulo de Actualización/manage-docs-versions-4c8": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-actualizacion-manage-docs-versionsf-1-b-f8b"
+    "content": "content---docs-modulos-modulo-de-actualizacion-manage-docs-versionse-34-064"
   },
-  "/docs/Modulo de Actualización/translate-your-site-7b6": {
+  "/docs/Módulos/Modulo de Actualización/translate-your-site-d53": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-actualizacion-translate-your-site-574-e66"
+    "content": "content---docs-modulos-modulo-de-actualizacion-translate-your-site-46-f-cf5"
   },
-  "/docs/Modulo de Adaptación/congratulations-484": {
+  "/docs/Módulos/Modulo de Adaptación/congratulations-3cb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-adaptacion-congratulations-5-e-5-b26"
+    "content": "content---docs-modulos-modulo-de-adaptacion-congratulationsfba-cea"
   },
-  "/docs/Modulo de Adaptación/create-a-blog-post-01a": {
+  "/docs/Módulos/Modulo de Adaptación/create-a-blog-post-3c0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-adaptacion-create-a-blog-postd-52-432"
+    "content": "content---docs-modulos-modulo-de-adaptacion-create-a-blog-post-86-e-be5"
   },
-  "/docs/Modulo de Adaptación/create-a-document-369": {
+  "/docs/Módulos/Modulo de Adaptación/create-a-document-697": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-adaptacion-create-a-documenta-5-b-629"
+    "content": "content---docs-modulos-modulo-de-adaptacion-create-a-document-241-f96"
   },
-  "/docs/Modulo de Adaptación/create-a-page-725": {
+  "/docs/Módulos/Modulo de Adaptación/create-a-page-690": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-adaptacion-create-a-page-2-d-8-782"
+    "content": "content---docs-modulos-modulo-de-adaptacion-create-a-page-521-c3c"
   },
-  "/docs/Modulo de Adaptación/deploy-your-site-899": {
+  "/docs/Módulos/Modulo de Adaptación/deploy-your-site-612": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-adaptacion-deploy-your-siteb-56-957"
+    "content": "content---docs-modulos-modulo-de-adaptacion-deploy-your-site-16-d-437"
   },
-  "/docs/Modulo de Adaptación/markdown-features-3c2": {
+  "/docs/Módulos/Modulo de Adaptación/markdown-features-0b5": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-adaptacion-markdown-features-69-a-7f0"
+    "content": "content---docs-modulos-modulo-de-adaptacion-markdown-features-312-e40"
   },
-  "/docs/Modulo de Desacople/context-913": {
+  "/docs/Módulos/Modulo de Desacople/context-f2a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-contexte-5-a-d59"
+    "content": "content---docs-modulos-modulo-de-desacople-context-4-e-1-393"
   },
-  "/docs/Modulo de Desacople/database-409": {
+  "/docs/Módulos/Modulo de Desacople/database-20a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-database-33-d-16a"
+    "content": "content---docs-modulos-modulo-de-desacople-database-968-fb7"
   },
-  "/docs/Modulo de Desacople/file-9a0": {
+  "/docs/Módulos/Modulo de Desacople/file-723": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-file-299-d7c"
+    "content": "content---docs-modulos-modulo-de-desacople-file-346-5f0"
   },
-  "/docs/Modulo de Desacople/overview-4bc": {
+  "/docs/Módulos/Modulo de Desacople/overview-4f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-overviewaff-dc3"
+    "content": "content---docs-modulos-modulo-de-desacople-overviewe-6-c-d90"
   },
-  "/docs/Modulo de Desacople/registry-65c": {
+  "/docs/Módulos/Modulo de Desacople/registry-506": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-desacople-registry-7-b-7-44f"
+    "content": "content---docs-modulos-modulo-de-desacople-registry-90-a-325"
   },
-  "/docs/Modulo de Inicialización/AWS/dynamodb-c28": {
+  "/docs/Módulos/Modulo de Inicialización/dynamodb-124": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-inicializacion-aws-dynamodb-617-645"
+    "content": "content---docs-modulos-modulo-de-inicializacion-dynamodb-085-bbf"
   },
-  "/docs/Modulo de Inicialización/AWS/overview-1b7": {
+  "/docs/Módulos/Modulo de Inicialización/overview-fad": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-inicializacion-aws-overview-85-a-fe0"
+    "content": "content---docs-modulos-modulo-de-inicializacion-overviewa-13-16f"
   },
-  "/docs/Modulo de Inicialización/AWS/secretsmanager-d72": {
+  "/docs/Módulos/Modulo de Inicialización/secretsmanager-ead": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-inicializacion-aws-secretsmanagerf-85-0ff"
+    "content": "content---docs-modulos-modulo-de-inicializacion-secretsmanager-579-e80"
   },
-  "/docs/Modulo de Inicialización/AWS/stepfunctions-100": {
+  "/docs/Módulos/Modulo de Inicialización/stepfunctions-c43": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-modulo-de-inicializacion-aws-stepfunctionsc-1-e-3d6"
+    "content": "content---docs-modulos-modulo-de-inicializacion-stepfunctionsb-05-b2e"
   },
   "/-e5f": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

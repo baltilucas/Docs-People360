@@ -11,8 +11,8 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "configuracion-dynamo",
-              "path": "/docs/configuracion-dynamo",
+              "id": "Configuracions/configuracion-dynamo",
+              "path": "/docs/Configuracions/configuracion-dynamo",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,113 +21,118 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Actualización/manage-docs-versions",
-              "path": "/docs/Modulo de Actualización/manage-docs-versions",
+              "id": "Módulos/Modulo de Actualización/manage-docs-versions",
+              "path": "/docs/Módulos/Modulo de Actualización/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Actualización/translate-your-site",
-              "path": "/docs/Modulo de Actualización/translate-your-site",
+              "id": "Módulos/Modulo de Actualización/translate-your-site",
+              "path": "/docs/Módulos/Modulo de Actualización/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Adaptación/congratulations",
-              "path": "/docs/Modulo de Adaptación/congratulations",
+              "id": "Módulos/Modulo de Adaptación/congratulations",
+              "path": "/docs/Módulos/Modulo de Adaptación/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Adaptación/create-a-blog-post",
-              "path": "/docs/Modulo de Adaptación/create-a-blog-post",
+              "id": "Módulos/Modulo de Adaptación/create-a-blog-post",
+              "path": "/docs/Módulos/Modulo de Adaptación/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Adaptación/create-a-document",
-              "path": "/docs/Modulo de Adaptación/create-a-document",
+              "id": "Módulos/Modulo de Adaptación/create-a-document",
+              "path": "/docs/Módulos/Modulo de Adaptación/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Adaptación/create-a-page",
-              "path": "/docs/Modulo de Adaptación/create-a-page",
+              "id": "Módulos/Modulo de Adaptación/create-a-page",
+              "path": "/docs/Módulos/Modulo de Adaptación/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Adaptación/deploy-your-site",
-              "path": "/docs/Modulo de Adaptación/deploy-your-site",
+              "id": "Módulos/Modulo de Adaptación/deploy-your-site",
+              "path": "/docs/Módulos/Modulo de Adaptación/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Adaptación/markdown-features",
-              "path": "/docs/Modulo de Adaptación/markdown-features",
+              "id": "Módulos/Modulo de Adaptación/markdown-features",
+              "path": "/docs/Módulos/Modulo de Adaptación/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/context",
-              "path": "/docs/Modulo de Desacople/context",
+              "id": "Módulos/Modulo de Desacople/context",
+              "path": "/docs/Módulos/Modulo de Desacople/context",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/database",
-              "path": "/docs/Modulo de Desacople/database",
+              "id": "Módulos/Modulo de Desacople/database",
+              "path": "/docs/Módulos/Modulo de Desacople/database",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/file",
-              "path": "/docs/Modulo de Desacople/file",
+              "id": "Módulos/Modulo de Desacople/file",
+              "path": "/docs/Módulos/Modulo de Desacople/file",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/overview",
-              "path": "/docs/Modulo de Desacople/overview",
+              "id": "Módulos/Modulo de Desacople/overview",
+              "path": "/docs/Módulos/Modulo de Desacople/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Desacople/registry",
-              "path": "/docs/Modulo de Desacople/registry",
+              "id": "Módulos/Modulo de Desacople/registry",
+              "path": "/docs/Módulos/Modulo de Desacople/registry",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Inicialización/AWS/dynamodb",
-              "path": "/docs/Modulo de Inicialización/AWS/dynamodb",
+              "id": "Módulos/Modulo de Inicialización/dynamodb",
+              "path": "/docs/Módulos/Modulo de Inicialización/dynamodb",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Inicialización/AWS/overview",
-              "path": "/docs/Modulo de Inicialización/AWS/overview",
+              "id": "Módulos/Modulo de Inicialización/overview",
+              "path": "/docs/Módulos/Modulo de Inicialización/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Inicialización/AWS/secretsmanager",
-              "path": "/docs/Modulo de Inicialización/AWS/secretsmanager",
+              "id": "Módulos/Modulo de Inicialización/secretsmanager",
+              "path": "/docs/Módulos/Modulo de Inicialización/secretsmanager",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Modulo de Inicialización/AWS/stepfunctions",
-              "path": "/docs/Modulo de Inicialización/AWS/stepfunctions",
+              "id": "Módulos/Modulo de Inicialización/stepfunctions",
+              "path": "/docs/Módulos/Modulo de Inicialización/stepfunctions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/modulo-de-inicialización",
-              "path": "/docs/category/modulo-de-inicialización",
+              "id": "/category/módulos",
+              "path": "/docs/category/módulos",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/módulo---aws",
-              "path": "/docs/category/módulo---aws",
+              "id": "/category/módulo-de-inicialización",
+              "path": "/docs/category/módulo-de-inicialización",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/modulo-de-desacople",
-              "path": "/docs/category/modulo-de-desacople",
+              "id": "/category/módulo-de-desacople",
+              "path": "/docs/category/módulo-de-desacople",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/modulo-de-adaptación",
-              "path": "/docs/category/modulo-de-adaptación",
+              "id": "/category/módulo-de-adaptación",
+              "path": "/docs/category/módulo-de-adaptación",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/modulo-de-actualización",
-              "path": "/docs/category/modulo-de-actualización",
+              "id": "/category/módulo-de-actualización",
+              "path": "/docs/category/módulo-de-actualización",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/configuraciones",
+              "path": "/docs/category/configuraciones",
               "sidebar": "tutorialSidebar"
             }
           ],

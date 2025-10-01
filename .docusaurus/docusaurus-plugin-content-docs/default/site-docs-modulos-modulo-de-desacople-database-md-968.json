@@ -1,0 +1,26 @@
+{
+  "id": "Módulos/Modulo de Desacople/database",
+  "title": "Base de datos",
+  "description": "Este conector se encarga de enlazar las bases de datos proporcionadas utilizando la URL de la base de datos para la conexión",
+  "source": "@site/docs/Módulos/Modulo de Desacople/database.md",
+  "sourceDirName": "Módulos/Modulo de Desacople",
+  "slug": "/Módulos/Modulo de Desacople/database",
+  "permalink": "/docs/Módulos/Modulo de Desacople/database",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resumen",
+    "permalink": "/docs/Módulos/Modulo de Desacople/overview"
+  },
+  "next": {
+    "title": "Archivos",
+    "permalink": "/docs/Módulos/Modulo de Desacople/file"
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "id": "Modulo de Desacople/registry",
+  "id": "Módulos/Modulo de Desacople/registry",
   "title": "Registro",
   "description": "Encargado de mantener los distintos tipos de conectores con el objetivo de abstraer el sistema de obtención de información",
-  "source": "@site/docs/Modulo de Desacople/registry.md",
-  "sourceDirName": "Modulo de Desacople",
-  "slug": "/Modulo de Desacople/registry",
-  "permalink": "/docs/Modulo de Desacople/registry",
+  "source": "@site/docs/Módulos/Modulo de Desacople/registry.md",
+  "sourceDirName": "Módulos/Modulo de Desacople",
+  "slug": "/Módulos/Modulo de Desacople/registry",
+  "permalink": "/docs/Módulos/Modulo de Desacople/registry",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,7 +17,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Archivos",
-    "permalink": "/docs/Modulo de Desacople/file"
+    "permalink": "/docs/Módulos/Modulo de Desacople/file"
   },
   "next": {
     "title": "Módulo de Adaptación",

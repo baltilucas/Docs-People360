@@ -1,0 +1,26 @@
+{
+  "id": "Módulos/Modulo de Desacople/overview",
+  "title": "Resumen",
+  "description": "Esta capa se encarga de obtener la información desde las distintas fuentes para guardarlas en una S3 bucket (bronze)",
+  "source": "@site/docs/Módulos/Modulo de Desacople/overview.md",
+  "sourceDirName": "Módulos/Modulo de Desacople",
+  "slug": "/Módulos/Modulo de Desacople/overview",
+  "permalink": "/docs/Módulos/Modulo de Desacople/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contexto",
+    "permalink": "/docs/Módulos/Modulo de Desacople/context"
+  },
+  "next": {
+    "title": "Base de datos",
+    "permalink": "/docs/Módulos/Modulo de Desacople/database"
+  }
+}

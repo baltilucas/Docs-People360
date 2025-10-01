@@ -114,49 +114,55 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c7f'),
+    component: ComponentCreator('/docs', '747'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '504'),
+        component: ComponentCreator('/docs', 'c07'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '145'),
+            component: ComponentCreator('/docs', '3df'),
             routes: [
               {
-                path: '/docs/category/módulo---aws',
-                component: ComponentCreator('/docs/category/módulo---aws', '480'),
+                path: '/docs/category/configuraciones',
+                component: ComponentCreator('/docs/category/configuraciones', 'b2b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/modulo-de-actualización',
-                component: ComponentCreator('/docs/category/modulo-de-actualización', 'a04'),
+                path: '/docs/category/módulo-de-actualización',
+                component: ComponentCreator('/docs/category/módulo-de-actualización', '195'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/modulo-de-adaptación',
-                component: ComponentCreator('/docs/category/modulo-de-adaptación', 'f31'),
+                path: '/docs/category/módulo-de-adaptación',
+                component: ComponentCreator('/docs/category/módulo-de-adaptación', 'b63'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/modulo-de-desacople',
-                component: ComponentCreator('/docs/category/modulo-de-desacople', '85a'),
+                path: '/docs/category/módulo-de-desacople',
+                component: ComponentCreator('/docs/category/módulo-de-desacople', '987'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/modulo-de-inicialización',
-                component: ComponentCreator('/docs/category/modulo-de-inicialización', '41e'),
+                path: '/docs/category/módulo-de-inicialización',
+                component: ComponentCreator('/docs/category/módulo-de-inicialización', '53b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/configuracion-dynamo',
-                component: ComponentCreator('/docs/configuracion-dynamo', 'e7e'),
+                path: '/docs/category/módulos',
+                component: ComponentCreator('/docs/category/módulos', '64e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Configuracions/configuracion-dynamo',
+                component: ComponentCreator('/docs/Configuracions/configuracion-dynamo', 'ece'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -167,104 +173,104 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Actualización/manage-docs-versions',
-                component: ComponentCreator('/docs/Modulo de Actualización/manage-docs-versions', '491'),
+                path: '/docs/Módulos/Modulo de Actualización/manage-docs-versions',
+                component: ComponentCreator('/docs/Módulos/Modulo de Actualización/manage-docs-versions', '4c8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Actualización/translate-your-site',
-                component: ComponentCreator('/docs/Modulo de Actualización/translate-your-site', '7b6'),
+                path: '/docs/Módulos/Modulo de Actualización/translate-your-site',
+                component: ComponentCreator('/docs/Módulos/Modulo de Actualización/translate-your-site', 'd53'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Adaptación/congratulations',
-                component: ComponentCreator('/docs/Modulo de Adaptación/congratulations', '484'),
+                path: '/docs/Módulos/Modulo de Adaptación/congratulations',
+                component: ComponentCreator('/docs/Módulos/Modulo de Adaptación/congratulations', '3cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Adaptación/create-a-blog-post',
-                component: ComponentCreator('/docs/Modulo de Adaptación/create-a-blog-post', '01a'),
+                path: '/docs/Módulos/Modulo de Adaptación/create-a-blog-post',
+                component: ComponentCreator('/docs/Módulos/Modulo de Adaptación/create-a-blog-post', '3c0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Adaptación/create-a-document',
-                component: ComponentCreator('/docs/Modulo de Adaptación/create-a-document', '369'),
+                path: '/docs/Módulos/Modulo de Adaptación/create-a-document',
+                component: ComponentCreator('/docs/Módulos/Modulo de Adaptación/create-a-document', '697'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Adaptación/create-a-page',
-                component: ComponentCreator('/docs/Modulo de Adaptación/create-a-page', '725'),
+                path: '/docs/Módulos/Modulo de Adaptación/create-a-page',
+                component: ComponentCreator('/docs/Módulos/Modulo de Adaptación/create-a-page', '690'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Adaptación/deploy-your-site',
-                component: ComponentCreator('/docs/Modulo de Adaptación/deploy-your-site', '899'),
+                path: '/docs/Módulos/Modulo de Adaptación/deploy-your-site',
+                component: ComponentCreator('/docs/Módulos/Modulo de Adaptación/deploy-your-site', '612'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Adaptación/markdown-features',
-                component: ComponentCreator('/docs/Modulo de Adaptación/markdown-features', '3c2'),
+                path: '/docs/Módulos/Modulo de Adaptación/markdown-features',
+                component: ComponentCreator('/docs/Módulos/Modulo de Adaptación/markdown-features', '0b5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/context',
-                component: ComponentCreator('/docs/Modulo de Desacople/context', '913'),
+                path: '/docs/Módulos/Modulo de Desacople/context',
+                component: ComponentCreator('/docs/Módulos/Modulo de Desacople/context', 'f2a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/database',
-                component: ComponentCreator('/docs/Modulo de Desacople/database', '409'),
+                path: '/docs/Módulos/Modulo de Desacople/database',
+                component: ComponentCreator('/docs/Módulos/Modulo de Desacople/database', '20a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/file',
-                component: ComponentCreator('/docs/Modulo de Desacople/file', '9a0'),
+                path: '/docs/Módulos/Modulo de Desacople/file',
+                component: ComponentCreator('/docs/Módulos/Modulo de Desacople/file', '723'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/overview',
-                component: ComponentCreator('/docs/Modulo de Desacople/overview', '4bc'),
+                path: '/docs/Módulos/Modulo de Desacople/overview',
+                component: ComponentCreator('/docs/Módulos/Modulo de Desacople/overview', '4f4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Desacople/registry',
-                component: ComponentCreator('/docs/Modulo de Desacople/registry', '65c'),
+                path: '/docs/Módulos/Modulo de Desacople/registry',
+                component: ComponentCreator('/docs/Módulos/Modulo de Desacople/registry', '506'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Inicialización/AWS/dynamodb',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/dynamodb', 'c28'),
+                path: '/docs/Módulos/Modulo de Inicialización/dynamodb',
+                component: ComponentCreator('/docs/Módulos/Modulo de Inicialización/dynamodb', '124'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Inicialización/AWS/overview',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/overview', '1b7'),
+                path: '/docs/Módulos/Modulo de Inicialización/overview',
+                component: ComponentCreator('/docs/Módulos/Modulo de Inicialización/overview', 'fad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Inicialización/AWS/secretsmanager',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/secretsmanager', 'd72'),
+                path: '/docs/Módulos/Modulo de Inicialización/secretsmanager',
+                component: ComponentCreator('/docs/Módulos/Modulo de Inicialización/secretsmanager', 'ead'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Modulo de Inicialización/AWS/stepfunctions',
-                component: ComponentCreator('/docs/Modulo de Inicialización/AWS/stepfunctions', '100'),
+                path: '/docs/Módulos/Modulo de Inicialización/stepfunctions',
+                component: ComponentCreator('/docs/Módulos/Modulo de Inicialización/stepfunctions', 'c43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

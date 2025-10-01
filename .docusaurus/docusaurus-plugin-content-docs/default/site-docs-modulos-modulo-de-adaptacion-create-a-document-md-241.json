@@ -1,0 +1,26 @@
+{
+  "id": "Módulos/Modulo de Adaptación/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/Módulos/Modulo de Adaptación/create-a-document.md",
+  "sourceDirName": "Módulos/Modulo de Adaptación",
+  "slug": "/Módulos/Modulo de Adaptación/create-a-document",
+  "permalink": "/docs/Módulos/Modulo de Adaptación/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/docs/Módulos/Modulo de Adaptación/create-a-page"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/Módulos/Modulo de Adaptación/create-a-blog-post"
+  }
+}

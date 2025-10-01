@@ -1,0 +1,26 @@
+{
+  "id": "Módulos/Modulo de Adaptación/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/Módulos/Modulo de Adaptación/deploy-your-site.md",
+  "sourceDirName": "Módulos/Modulo de Adaptación",
+  "slug": "/Módulos/Modulo de Adaptación/deploy-your-site",
+  "permalink": "/docs/Módulos/Modulo de Adaptación/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/docs/Módulos/Modulo de Adaptación/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/docs/Módulos/Modulo de Adaptación/congratulations"
+  }
+}

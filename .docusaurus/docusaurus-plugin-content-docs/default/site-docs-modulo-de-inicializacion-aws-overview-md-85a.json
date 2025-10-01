@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Módulo - AWS",
-    "permalink": "/docs/category/módulo---aws"
+    "title": "Modulo de Inicialización",
+    "permalink": "/docs/category/modulo-de-inicialización"
   },
   "next": {
     "title": "DynamoDB",

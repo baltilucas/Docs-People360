@@ -1,6 +1,6 @@
 {
-  "label": "Módulo - AWS",
-  "position": 1,
+  "label": "Configuraciones",
+  "position": 10,
   "link": {
     "type": "generated-index"
   }
